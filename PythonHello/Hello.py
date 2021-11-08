@@ -1,0 +1,1 @@
+print(" Hurrah i have run my python code in my pc that is a great day")
